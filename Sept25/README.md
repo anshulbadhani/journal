@@ -17,7 +17,7 @@ This is all my progress logs for sept 2025
     - Learnt about history and a little bit of inner workings of grep
 - Learnt about how weird arrays are in bash (I still can't have an understanding of it's syntax)
 - Understood What monads actually are
-    - relating it through my discrete mathematical structures. A Monad is a monoid in the category of endo-functors and this makes complete sense now
+    - relating it through my discrete mathematical structures course. A Monad is a monoid in the category of endo-functors and this makes complete sense now
     - Monoid: Some operator like +, -, *, / etc.
     - Category: Same as english. A sort of collection
     - Functors: A mapping between two categories. Like abs() function in case of complex numbers is a functor from category of complex numbers to a category of real numbers.

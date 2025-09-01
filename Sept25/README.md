@@ -24,3 +24,5 @@ This is all my progress logs for sept 2025
     - Endo-functors: A functor to itself like f:R->R is an endo-functor
 
     __Now think how all of this makes sense__
+
+- Learnt about how to rebase and resolve and the conflicts using git (while working on this repo only)

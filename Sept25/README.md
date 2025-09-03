@@ -26,3 +26,10 @@ This is all my progress logs for sept 2025
     __Now think how all of this makes sense__
 
 - Learnt about how to rebase and resolve and the conflicts using git (while working on this repo only)
+
+## 2 Sept
+- Downloaded Red Dead Redemption (first part) so, played that the entire day
+
+## 3 Sept
+- Explored a little bit for blockchain for SIH
+- Made a simple presentation for team on excalidraw to pitch my solution for the SIH problem statement.

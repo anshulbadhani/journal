@@ -15,6 +15,9 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [Lecture 9: Table Doubling, Karp-Rabin - YouTube](https://www.youtube.com/watch?v=NTfOnGZUZDk)
 
 
+### Blockchain and Cryptography
+- [But how does bitcoin actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=880s)
+
 ### Functional Programming
 - [A monad is a monoid in the category of endofunctors. Whats the problem? #SoMe2 - YouTube](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
 - [Why functions are turing complete (Lambda Calculus) - YouTube](https://www.youtube.com/watch?v=m32kbFXBRR0)

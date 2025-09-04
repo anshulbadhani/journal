@@ -33,3 +33,6 @@ This is all my progress logs for sept 2025
 ## 3 Sept
 - Explored a little bit for blockchain for SIH
 - Made a simple presentation for team on excalidraw to pitch my solution for the SIH problem statement.
+
+## 4 Sept
+- Did nothing, studied nothing. Tommorow is exam and everything is very overwhelming. So, just trying to be nice with myself :l

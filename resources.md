@@ -1,10 +1,23 @@
 # Resources
 All the resources which I learnt from will be mentioned here (I'll try my best)
 
+<!-- Arragange this alphabetically and make a Table Of Contents at the end of this month (Sept) today's date:9/9/2025-->
+
+
 ### GOLANG
 - [Tutorial: Create a Go module - The Go Programming Language](https://go.dev/doc/tutorial/create-module)
 - [Go by Example](https://gobyexample.com/)
 - [Learn GO Fast: Full Tutorial - YouTube](https://www.youtube.com/watch?v=8uiZC0l4Ajw)
+
+
+### Python
+- [uv](https://docs.astral.sh/uv/)
+
+
+### Databases
+- [SQLite Offical Docs](https://sqlite.org/)
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+- [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 
 
 ### Hashing

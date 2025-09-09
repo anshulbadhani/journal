@@ -36,3 +36,16 @@ This is all my progress logs for sept 2025
 
 ## 4 Sept
 - Did nothing, studied nothing. Tommorow is exam and everything is very overwhelming. So, just trying to be nice with myself :l
+
+## 5-8 Sept
+- Did mostly SIH stuff
+    - Made a program to generate a QR Code from given data. (which was completely wiped by my team member–he pushed changes directly into the main branch -_-
+    - Attneded millions of meetings :D
+- Discoverd this cool package manager for python called [uv](https://docs.astral.sh/uv/).
+- Learnt about branch rules in GitHub.
+- Setup a minecraft server and spent a lot of time playing minecraft with friends.
+
+## 9 Sept
+- College opened
+- Did Tutorial 5 of DBW and learnt SQL.
+- (... Still some day is left let's see what I do ...)

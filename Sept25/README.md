@@ -49,3 +49,14 @@ This is all my progress logs for sept 2025
 - College opened
 - Did Tutorial 5 of DBW and learnt SQL.
 - (... Still some day is left let's see what I do ...)
+
+## 10 Sept
+- Learnt about Binary Trees (again) and learnt about Binary Search Trees.
+- Implemented Inorder, preorder, postorder and insertion in a BST.
+
+## 11 Sept
+- Talked to prof related to our research paper on temperature prediction using FTS.
+- Became a Mathematics Head at DICE (I'm both sure and not sure if I will stay after interviews or not)
+- Made SIH ppt
+- Messed with React (I don't know React) and realised I hate the entire JS eco system. It's not for me. FUCK NODE, NPM, REACT and whatever there is ehh.
+- Prepared the SIH pitch.

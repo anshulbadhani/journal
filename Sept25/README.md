@@ -68,6 +68,8 @@ This is all my progress logs for sept 2025
     - Explored some ideas to make "unstable", "less aerodynamic" and "asymmetric" designs as a part of my thought experiment and figured out some benefits of doing this and how this can have some awesome outcomes. Actually, I should write a complete research paper style document expanding upon this.
     - Assembled and deployed a drone
     - Worked with awesome people and made some very good memories✨.
+- Made this very cool tool which formats all my code into a .docx file. So, I can upload it on Google Classroom easily :cry::heart:.
+- Also, learnt some bits about github actions (I still have no fucking clue, but it makes a little more sense to me than before).
 - Tried to learn SQL (for college lab tests).
 - Studied a lot of data structures
     - AVL Trees

@@ -3,7 +3,7 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 
 <!-- Arragange this alphabetically and make a Table Of Contents at the end of this month (Sept) today's date:9/9/2025-->
 
-
+## Programing Languages
 ### GOLANG
 - [Tutorial: Create a Go module - The Go Programming Language](https://go.dev/doc/tutorial/create-module)
 - [Go by Example](https://gobyexample.com/)
@@ -14,12 +14,13 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [uv](https://docs.astral.sh/uv/)
 
 
-### Databases
+## Databases
 - [SQLite Offical Docs](https://sqlite.org/)
 - [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 - [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 
 
+## Data Structures and Algorithms
 ### Hashing
 - [Hashing Algorithms and Security - Computerphile - YouTube](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 - [Hash Collisions & The Birthday Paradox - Computerphile - YouTube](https://www.youtube.com/watch?v=jsraR-el8_o)
@@ -27,6 +28,9 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [Lecture 9: Table Doubling, Karp-Rabin - YouTube](https://www.youtube.com/watch?v=BRO7mVIFt08)
 - [Lecture 9: Table Doubling, Karp-Rabin - YouTube](https://www.youtube.com/watch?v=NTfOnGZUZDk)
 
+### Trees
+- [10.2 B Trees and B+ Trees. How they are useful in Databases - YouTube](https://www.youtube.com/watch?v=aZjYr87r1b8)
+- [10.1 AVL Tree - Insertion and Rotations - YouTube](https://www.youtube.com/watch?v=jDM6_TnYIqE)
 
 ### Blockchain and Cryptography
 - [But how does bitcoin actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=880s)

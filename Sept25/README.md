@@ -60,3 +60,20 @@ This is all my progress logs for sept 2025
 - Made SIH ppt
 - Messed with React (I don't know React) and realised I hate the entire JS eco system. It's not for me. FUCK NODE, NPM, REACT and whatever there is ehh.
 - Prepared the SIH pitch.
+
+## 12 Sept - 30 Sept
+- Lot's of college and personal stuff.
+- Attended a workshop on UAVs by CDAC (Again)
+    - Amazing experience
+    - Explored some ideas to make "unstable", "less aerodynamic" and "asymmetric" designs as a part of my thought experiment and figured out some benefits of doing this and how this can have some awesome outcomes. Actually, I should write a complete research paper style document expanding upon this.
+    - Assembled and deployed a drone
+    - Worked with awesome people and made some very good memories✨.
+- Tried to learn SQL (for college lab tests).
+- Studied a lot of data structures
+    - AVL Trees
+    - Red-Black Trees
+    - B Trees
+    - B+ Trees
+    - Threaded Tress (Okay at this point it get's unnecessary to mention more stuff)
+    - and some more variations of same ideas
+- Pitched some ideas for AI/ML Hub's events and working on the ideas of other people too. Won't reveal it now :wink:

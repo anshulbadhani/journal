@@ -12,3 +12,14 @@ This is all my progress logs for October 2025
 ## 3 Oct
 - Revisited AVL Tress, mostly focusing on exams this time.
 - Went to AI/ML meet and got inspired (again), will continue with decided ideas (again 🙃). Have to find more ways to stay on track 😤.
+- Found Operations in Research and Creative Applications (ORCA) Labs. I will do stupid experiments here.
+- Started work on a simulation called Dimple Dice, to find out if poison distribution is a conspiracy theory 🕵️.
+    - First project under ORCA.
+
+## 4 Oct
+- Ethnic Night, so enjoyed :D
+
+## 5 Oct
+- Explored little bit about LangChain.
+- Looked into some cool non-tech stuff.
+

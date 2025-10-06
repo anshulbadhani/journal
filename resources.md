@@ -4,6 +4,10 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 <!-- Arragange this alphabetically and make a Table Of Contents at the end of this month (Sept) today's date:9/9/2025-->
 
 ## Programing Languages
+### C/C++
+- [A General Overview of What Happens Before main() - Embedded Artistry](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)
+- [(11) CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()” - YouTube](https://www.youtube.com/watch?v=dOfucXtyEsU)
+
 ### GOLANG
 - [Tutorial: Create a Go module - The Go Programming Language](https://go.dev/doc/tutorial/create-module)
 - [Go by Example](https://gobyexample.com/)
@@ -32,9 +36,9 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [10.2 B Trees and B+ Trees. How they are useful in Databases - YouTube](https://www.youtube.com/watch?v=aZjYr87r1b8)
 - [10.1 AVL Tree - Insertion and Rotations - YouTube](https://www.youtube.com/watch?v=jDM6_TnYIqE)
 
-### Blockchain and Cryptography
+## Blockchain and Cryptography
 - [But how does bitcoin actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=880s)
 
-### Functional Programming
+## Functional Programming
 - [A monad is a monoid in the category of endofunctors. Whats the problem? #SoMe2 - YouTube](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
 - [Why functions are turing complete (Lambda Calculus) - YouTube](https://www.youtube.com/watch?v=m32kbFXBRR0)

@@ -23,3 +23,10 @@ This is all my progress logs for October 2025
 - Explored little bit about LangChain.
 - Looked into some cool non-tech stuff.
 
+## 6 Oct
+- Revisited Binary Trees, BSTs, Balanced Search Trees (Red-Black majorly) and B-Trees.
+- Paired Application Binary Interface (ABI) with _start to bypass the global main in cpp. (../resources.md)
+    - Learnt more about internal compiler workings.
+    - Using asm with volatile to do some crazy things to hardware.
+    - Learnt about internal management of main function and how main() abstracts most of the stuff.
+

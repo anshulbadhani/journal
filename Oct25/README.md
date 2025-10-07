@@ -25,8 +25,15 @@ This is all my progress logs for October 2025
 
 ## 6 Oct
 - Revisited Binary Trees, BSTs, Balanced Search Trees (Red-Black majorly) and B-Trees.
-- Paired Application Binary Interface (ABI) with _start to bypass the global main in cpp. (../resources.md)
+- Paired Application Binary Interface (ABI) with _start to bypass the global main in cpp. (../resources.md
+
     - Learnt more about internal compiler workings.
     - Using asm with volatile to do some crazy things to hardware.
     - Learnt about internal management of main function and how main() abstracts most of the stuff.
 
+## 7 Oct
+- Tried to make a smart todo app for myself.
+- Explored the horrors of google classroom's API docs and dealt with Google OAuth service. Figuring it out without any tutorial was HELLLL. But, the dopamine rush was insane, after I logged in with google account!!!
+- At the end I found that my institution does not allow us to sign in to third-party apps 🥰.
+- I even pushed the app into production. Still no hopes (it works on my personal account).
+- Now, would have to figure out a way to make my application authorized.

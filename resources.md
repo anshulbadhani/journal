@@ -36,6 +36,12 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [10.2 B Trees and B+ Trees. How they are useful in Databases - YouTube](https://www.youtube.com/watch?v=aZjYr87r1b8)
 - [10.1 AVL Tree - Insertion and Rotations - YouTube](https://www.youtube.com/watch?v=jDM6_TnYIqE)
 
+## APIs
+### Google Cloud API
+- [Google Classroom API](https://googleapis.github.io/google-api-python-client/docs/dyn/classroom_v1.html)
+- [Python quickstart  |  Google Classroom  |  Google for Developers](https://developers.google.com/workspace/classroom/quickstart/python) (This one is a life saverr) 
+- [Using OAuth 2.0 to Access Google APIs  |  Authorization  |  Google for Developers](https://developers.google.com/identity/protocols/oauth2)
+
 ## Blockchain and Cryptography
 - [But how does bitcoin actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=880s)
 

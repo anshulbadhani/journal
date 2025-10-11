@@ -37,3 +37,13 @@ This is all my progress logs for October 2025
 - At the end I found that my institution does not allow us to sign in to third-party apps 🥰.
 - I even pushed the app into production. Still no hopes (it works on my personal account).
 - Now, would have to figure out a way to make my application authorized.
+
+## 8 Oct
+- Talked about the API stuff with my teacher. Will discuss with administration after exams (Yes, exammmmssss :cry:)
+- Did a lot of Data Structures.
+
+## 9 Oct
+- 60+ questions on binary trees
+
+## 10-12 Oct
+- Mid Sem Prep

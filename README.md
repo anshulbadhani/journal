@@ -18,3 +18,4 @@ Here's a summary of this month
 ## [Oct 2025](https://github.com/anshulbadhani/upskill/tree/main/Oct25)
 - Decided to give one hour everyday to make something stupid and for myself!
 - Founded Operations in Research and Creative Applications (ORCA) Labs.
+- Mid Sem Exams.

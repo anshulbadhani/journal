@@ -25,6 +25,10 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 
 
 ## Data Structures and Algorithms
+### Some Material
+- [IARCS Resources for IOI Preparation](https://www.iarcs.org.in/inoi/online-study-material/index.php)
+[Data Structures and Algorithms Made Easy : Narasimha Karumanchi: Amazon.in: Books](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X)
+
 ### Hashing
 - [Hashing Algorithms and Security - Computerphile - YouTube](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 - [Hash Collisions & The Birthday Paradox - Computerphile - YouTube](https://www.youtube.com/watch?v=jsraR-el8_o)

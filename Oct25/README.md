@@ -45,9 +45,13 @@ This is all my progress logs for October 2025
 ## 9 Oct
 - 60+ questions on binary trees
 
-## 10-18 Oct
+## 10-16 Oct
 - Mid Sem Exams. So, didn't do much
 
-## 19 Oct
+## 17 Oct
 - Exams Over
 - Made a [Diwali Break Plan](https://github.com/anshulbadhani/upskill/blob/main/Oct25/diwali_break_plan.md) (I hope I guessed the link right)
+
+## 19 Oct
+- Done with EVS Project and Report. Just have to edit in Excel.
+- Compiled the resources for learning machine learning.

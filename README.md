@@ -19,3 +19,4 @@ Here's a summary of this month
 - Decided to give one hour everyday to make something stupid and for myself!
 - Founded Operations in Research and Creative Applications (ORCA) Labs.
 - Mid Sem Exams.
+- Added ml_courses.md in ./Oct25 directory. It is different from Resources.md because unlike resources.md I haven't personally used those resources to study. That is just an compilation.

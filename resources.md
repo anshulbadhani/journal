@@ -3,6 +3,9 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 
 <!-- Arragange this alphabetically and make a Table Of Contents at the end of this month (Sept) today's date:9/9/2025-->
 
+## Cool Stuff
+- [docsify](https://docsify.js.org/#/?id=docsify)
+
 ## Programing Languages
 ### C/C++
 - [A General Overview of What Happens Before main() - Embedded Artistry](https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/)

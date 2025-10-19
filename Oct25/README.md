@@ -52,6 +52,13 @@ This is all my progress logs for October 2025
 - Exams Over
 - Made a [Diwali Break Plan](https://github.com/anshulbadhani/upskill/blob/main/Oct25/diwali_break_plan.md) (I hope I guessed the link right)
 
-## 19 Oct
+## 18 Oct
 - Done with EVS Project and Report. Just have to edit in Excel.
 - Compiled the resources for learning machine learning.
+
+## 19 Oct
+- Setted up tutorial repository for learning and compiled docs.
+- Found about this very cool tool called [docsify](https://docsify.js.org/#/?id=docsify), which is used to generate documentation automatically from README.md files
+- Wrote all the helper classes for OO using Java project. Core Trainging logic and Main function is left.
+- Learned why short selling won't work in huge market crashes. (Yes, preparing for AI bubble to burst 👽)
+- Got some intuition about Sharpe Ratios. (Third time 🙄)

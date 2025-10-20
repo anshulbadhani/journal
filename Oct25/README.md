@@ -62,3 +62,8 @@ This is all my progress logs for October 2025
 - Wrote all the helper classes for OO using Java project. Core Trainging logic and Main function is left.
 - Learned why short selling won't work in huge market crashes. (Yes, preparing for AI bubble to burst 👽)
 - Got some intuition about Sharpe Ratios. (Third time 🙄)
+
+## 20 Oct
+- Diwali 🎆✨
+- No study today, only ghar k kaam and sleep 💤✨.
+

@@ -50,7 +50,7 @@ This is all my progress logs for October 2025
 
 ## 17 Oct
 - Exams Over
-- Made a [Diwali Break Plan](https://github.com/anshulbadhani/upskill/blob/main/Oct25/diwali_break_plan.md) (I hope I guessed the link right)
+- Made a [Diwali Break Plan](https://github.com/anshulbadhani/journal/blob/main/Oct25/diwali_break_plan.md) (I hope I guessed the link right)
 
 ## 18 Oct
 - Done with EVS Project and Report. Just have to edit in Excel.

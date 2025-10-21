@@ -55,3 +55,12 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 ## Functional Programming
 - [A monad is a monoid in the category of endofunctors. Whats the problem? #SoMe2 - YouTube](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
 - [Why functions are turing complete (Lambda Calculus) - YouTube](https://www.youtube.com/watch?v=m32kbFXBRR0)
+
+## Machine Learning
+- [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)\
+
+## Psychology
+- [Handbook of Attachment: Theory, Research, and Clinical Applications: 9781462525294: Medicine & Health Science Books @ Amazon.com](https://www.amazon.com/Handbook-Attachment-Third-Research-Applications/dp/1462525296)
+    - Absolutely goated book!! But, I was unable to find a free pdf which was not shady.
+- [Disorganized Attachment Style](https://www.simplypsychology.org/disorganized-attachment.html)
+

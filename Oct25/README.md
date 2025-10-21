@@ -67,3 +67,16 @@ This is all my progress logs for October 2025
 - Diwali 🎆✨
 - No study today, only ghar k kaam and sleep 💤✨.
 
+## 21 Oct
+- Learnt about computers which use stochastic methods instead of traditional binary based computers.
+    - One of the most notable example of this is quantum computers
+    - In past there were computers which used large large random sequences of ones and zeros to denote entire probability distributions
+    - And operations were carried out by logical AND, logical OR etc on the random bit strings to manipulate them
+- Completed first lecture from this [very awesome machine learning course](https://github.com/microsoft/ML-For-Beginners)
+    - Getting a basic overview of ML and different techniques like Clustering and Classification and where all of this breaks.
+- Dived into attachment theory (again!! one of my fav topics)
+    - Learnt more about disorganized attachment, found one of the best resources on [Disorganized Attachment Style](https://www.simplypsychology.org/disorganized-attachment.html).
+    - Decided to work on my own anxious-avoident tendecies (yes, again :cry:).
+- Also, renamed the repo from `upskill` to `journal`
+    - Upskill has that very tech focused vibe. I'm not sure if it is a good thing or not.
+    - I may reconsider permissions on this repo. But for now its fine ig.

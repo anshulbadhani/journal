@@ -80,3 +80,7 @@ This is all my progress logs for October 2025
 - Also, renamed the repo from `upskill` to `journal`
     - Upskill has that very tech focused vibe. I'm not sure if it is a good thing or not.
     - I may reconsider permissions on this repo. But for now its fine ig.
+
+## 22 Oct
+- Bleh.
+- Slept all day, I just didn't felt like doing anything. I am just exhausted ugh!!

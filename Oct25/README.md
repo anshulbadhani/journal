@@ -84,3 +84,15 @@ This is all my progress logs for October 2025
 ## 22 Oct
 - Bleh.
 - Slept all day, I just didn't felt like doing anything. I am just exhausted ugh!!
+
+## 23 Oct
+- Bleh.
+- Same as yesterday.
+
+## 24 Oct
+- Java lab project done. Very small refinements left, which we will do just before submission 🥰.
+- Started with DS project.
+    - We are trying to make a simple RL based organism simulator.
+    - Where single cell organisms try to adapt and survive according to their enviorment.
+    - Today we brainstormed the idea of the class Structure and decided some data structures, which would be useful for certain purposes in the project. Mainly the brain of the organism and how we will represent it.
+    - Made a small hardcoded brain. Now we have to program specific actions and awareness for the organism of its surroundings.

@@ -5,6 +5,7 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 
 ## Cool Stuff
 - [docsify](https://docsify.js.org/#/?id=docsify)
+- [Fuzzy based priority aware task scheduling optimization for mobile edge computing environments | Scientific Reports](https://www.nature.com/articles/s41598-025-23690-9)
 
 ## Programing Languages
 ### C/C++
@@ -57,7 +58,30 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [Why functions are turing complete (Lambda Calculus) - YouTube](https://www.youtube.com/watch?v=m32kbFXBRR0)
 
 ## Machine Learning
-- [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)\
+### Tutorials
+- [microsoft/ML-For-Beginners: 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+
+### ML Design
+- [This ML Design Interview strategy got me into Meta - YouTube](https://www.youtube.com/watch?v=XN2ymraj27g)
+- [Need ML System Design Book? I Read Them ALL - YouTube](https://www.youtube.com/watch?v=UQ0AQyhKS-8)
+
+### Recomendation Systems
+- [[2202.05387] TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](https://arxiv.org/abs/2202.05387)
+- [[2007.03634] PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://arxiv.org/abs/2007.03634)
+
+#### Bandit Algorithms
+**Youtube Videos**
+- [Reinforcement Learning #1: Multi-Armed Bandits, Explore vs Exploit, Epsilon-Greedy, UCB - YouTube](https://www.youtube.com/watch?v=p13V-93aG1c&t=4s)
+- [The Contextual Bandits Problem - YouTube](https://www.youtube.com/watch?v=N5x48g2sp8M)
+- [What the heck are "contextual bandits"?! - YouTube](https://www.youtube.com/watch?v=fiNMRGNMYCU)
+- [Thompson sampling, one armed bandits, and the Beta distribution - YouTube](https://www.youtube.com/watch?v=nkyDGGQ5h60)
+- [Multi-Armed Bandits: A Cartoon Introduction - DCBA #1 - YouTube](https://www.youtube.com/watch?v=bkw6hWvh_3k)
+- [Thompson Sampling : Data Science Concepts - YouTube](https://www.youtube.com/watch?v=Zgwfw3bzSmQ)
+- [Lessons from Instagram's Cutting-Edge Explore Recommendation System | Retrieval to Reranking | Meta - YouTube](https://www.youtube.com/watch?v=Myna6rnmCG8)
+
+**Papers**
+- [[1904.07272] Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272) *this one is kind of a book tbh*
+- [[2205.10113] Evolutionary Multi-Armed Bandits with Genetic Thompson Sampling](https://arxiv.org/abs/2205.10113)
 
 ## Psychology
 - [Handbook of Attachment: Theory, Research, and Clinical Applications: 9781462525294: Medicine & Health Science Books @ Amazon.com](https://www.amazon.com/Handbook-Attachment-Third-Research-Applications/dp/1462525296)

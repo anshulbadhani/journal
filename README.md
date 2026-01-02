@@ -21,3 +21,14 @@ Here's a summary of this month
 - Founded Operations in Research and Creative Applications (ORCA) Labs.
 - Mid Sem Exams.
 - Added ml_courses.md in ./Oct25 directory. It is different from Resources.md because unlike resources.md I haven't personally used those resources to study. That is just an compilation.
+
+## Nov 2025
+No records for Nov 2025, besides things mentione in [resources.md](resources.md).
+
+## Dec 2025
+Exams and chill season, hence no detailed records
+- but I learnt the very very very basics of Concurrency using Java.
+- Started to learn about Recomendation Systems using Machine Learning (It was supposed to be a project for a ML duel)
+
+## [Jan 2026](Jan26/README.md)
+- Diving into Bandit algorithms and Machine Learing Systems' Design. To make a todo app which recommends like how social media companies do.

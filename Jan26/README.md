@@ -13,3 +13,12 @@ WE ARE SO FUCKING BACK!
 - Learnt more about bandits
 - Implemented Uniform Bandit from scratch in python
 - Learnt a few basics of ML Design (samjh aa gya kya hua, but I dont think I can design `any` ML system from scratch on my own in a limited time lol)
+
+## 3 Jan
+- Made a PR to OSDC Wiki
+- Implemented Epsilon Greedy Bandits
+- Decided on rough Fuzzy Model
+- Understood the concept of UCB and LCB, which we usually calculate in Probability as *confidence intervals*
+
+## 4 Jan
+- Implemented Successive Elimination

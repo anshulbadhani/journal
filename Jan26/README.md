@@ -22,3 +22,10 @@ WE ARE SO FUCKING BACK!
 
 ## 4 Jan
 - Implemented Successive Elimination
+
+## 5 Jan
+- Implemented UCB1
+
+## 6 Jan
+- Issued a book on making recomendation systems, will read it afterwards
+- I really wanna work on my app now

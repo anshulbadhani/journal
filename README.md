@@ -5,8 +5,8 @@ This is a repository I made to keep a track of whatever I learnt
 
 ## On going stuff
 - [ ] [Dimple Dice](https://github.com/anshulbadhani/DimpleDice) *idts it will ever complete lol*
-- [x] [The-Darwin-Engine](https://github.com/ifndef-BROS/The-Darwin-Engine)
 - [ ] Personalized Recomendation System for a todo application
+- [ ] [FOSSHACK](https://github.com/Tanishq172006/TAAL-)
 
 ## [Sept 2025](https://github.com/anshulbadhani/journal/tree/main/Sept25)
 Here's a summary of this month

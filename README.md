@@ -25,6 +25,7 @@ Here's a summary of this month
 
 ## Nov 2025
 No records for Nov 2025, besides things mentione in [resources.md](resources.md).
+- Paricipated in osdc hacking
 
 ## Dec 2025
 Exams and chill season, hence no detailed records
@@ -33,3 +34,18 @@ Exams and chill season, hence no detailed records
 
 ## [Jan 2026](Jan26/README.md)
 - Diving into Bandit algorithms and Machine Learing Systems' Design. To make a todo app which recommends like how social media companies do.
+- Worked on Research paper.
+- Learnt about Markov Chains, Random Walks, Hidden Markov Models and Markov Decision Process
+- Dived into Reinforcement Learning mainly MDP, Bandits, Policy Gradient and a rough idea of Actor Critic
+
+## [Feb 2026](Feb26/README.md)
+- Term 1 exams of 4th Semester.
+- Attended AI Impact Summit.
+- Participated in Climate Data Hackathon
+- Presented my paper at `International Conference on Recent Advances in Mathematical Sciences and its Applications`.
+- Started to work on FOSSHACK26. More details ahead.
+
+## [Mar26](Mar26/README.md)
+- FOSSHACK26
+    - we are making a music production app for android users
+    - more details 

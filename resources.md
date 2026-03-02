@@ -83,6 +83,10 @@ All the resources which I learnt from will be mentioned here (I'll try my best)
 - [[1904.07272] Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272) *this one is kind of a book tbh*
 - [[2205.10113] Evolutionary Multi-Armed Bandits with Genetic Thompson Sampling](https://arxiv.org/abs/2205.10113)
 
+## Mathematics
+### Queuing Theory
+- Queueing Systems Volume I: Theory by *Klienrock*
+
 ## Psychology
 - [Handbook of Attachment: Theory, Research, and Clinical Applications: 9781462525294: Medicine & Health Science Books @ Amazon.com](https://www.amazon.com/Handbook-Attachment-Third-Research-Applications/dp/1462525296)
     - Absolutely goated book!! But, I was unable to find a free pdf which was not shady.

@@ -65,13 +65,18 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
 - Made a few presentations for pitching our work
 - And khoob saari meetings, it was fun though and meet many cool people across all domains. GOOD STUFF
 
-## 24 Mar
+## 23 Mar
 - Started to work on the GitHub Recomendation System. Using a Two tower arch, but will use bandits instead of full blown neural networks.
 - Did some very basic research and literature Review
 - Studided for Science of Happiness Exam
 
-## 25 Mar
+## 24 Mar
 - Today was my Science of Happiness Exam
 - Didn't do much, but I installed the data from [here](https://github.com/John-K92/Recommendation-Systems-for-GitHub)
 - Separated the data into multiple `.csv` files.
 - Have my Numerical Methods and Computation exam tomorrow, so studied about numerical methods to solve a system of linear equations (interpolation bcha hai :cry:)
+
+# 25 Mar
+- Today was numerical methods exam
+- Studied Numerical methods (ofc)
+- Studied the Github Rec Sys Data set and tried to filter it out to avoid cold start edge cases

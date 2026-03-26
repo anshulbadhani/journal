@@ -80,3 +80,18 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
 - Today was numerical methods exam
 - Studied Numerical methods (ofc)
 - Studied the Github Rec Sys Data set and tried to filter it out to avoid cold start edge cases
+
+# 26 Mar
+- Registered for Meta AI Hackathon organized at scalar blr
+- Studided for AIML exam, in very depth actually
+    - Types of Models
+    - Performance Metrics for evaluation
+    - PCA
+    - DBSCAN
+    - Hierarchical clustering analysis
+    - and a lot of stuff, still my syllabus is no where close to complete
+- Backed up all my bandit scheduling code on github
+- Prepared a solid intro for any interview, written on the back of my rough notebook (for me to remember)
+- Attended the FOSSHACK QnA session and interacted a bit with them online
+- Said no for Municipal Corporation Delhi Hackathon, because my other teammates were not interested and ofc... FOSSHACK is at the same day
+- Prayed for my exam (I'm cooked)

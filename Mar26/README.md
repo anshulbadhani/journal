@@ -95,3 +95,13 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
 - Attended the FOSSHACK QnA session and interacted a bit with them online
 - Said no for Municipal Corporation Delhi Hackathon, because my other teammates were not interested and ofc... FOSSHACK is at the same day
 - Prayed for my exam (I'm cooked)
+
+# 27 Mar
+- Got cooked in my AIML exam
+- Studied Backpropagation well (for the limited time I had)
+    - Still have many questions though
+- Worked on GitHub RecSys
+    - Learnt about the spotlight library and the module which was included in the paper's repository
+    - Wrote some dumb code to understand the dataset well, like what kind of features are what type and what the different particians of the dataset contained
+    - Tried to save things into a pandas dataframe, but I realised that number of users != number of repos. Therefore, I need multiple tables (towers 🦅)
+    - Next, I'll focus on sequence generation via spotlight and embedding generation to feed into my two towers.

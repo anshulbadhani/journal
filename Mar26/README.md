@@ -105,3 +105,14 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
     - Wrote some dumb code to understand the dataset well, like what kind of features are what type and what the different particians of the dataset contained
     - Tried to save things into a pandas dataframe, but I realised that number of users != number of repos. Therefore, I need multiple tables (towers 🦅)
     - Next, I'll focus on sequence generation via spotlight and embedding generation to feed into my two towers.
+
+# 28 Mar
+- Attended FOSSHACK offline events
+- Made some insane progress for FOSSHACK
+    - fixed UI a bit
+    - Resolved audio not playing on piano while pressing play
+    - Added right clicks for desktops along with long press
+- Made some insane progress on GitHub repo recomendation engine
+    - Now, I understand the Interactions and SequenceInteractions objects very well.
+    - Extracted and organized data for user and item towers from pickle files into less "bloated" pickle files
+    - Tomorrow, I will use `Sentence-Transformers` to generate embeddings and start working on the core algorithm itself.

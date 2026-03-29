@@ -116,3 +116,10 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
     - Now, I understand the Interactions and SequenceInteractions objects very well.
     - Extracted and organized data for user and item towers from pickle files into less "bloated" pickle files
     - Tomorrow, I will use `Sentence-Transformers` to generate embeddings and start working on the core algorithm itself.
+
+# 29 Mar
+- Studied Greedy Algorithms for Design and Analysis of Algorithms exam
+    - Will study Backtracking after this
+- Worked on embedding generation
+- Generated two static, repositories and user towers
+- Pray for my tomorrow exam (I hate exams but I love algorithms design and analysis)

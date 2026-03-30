@@ -123,3 +123,11 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
 - Worked on embedding generation
 - Generated two static, repositories and user towers
 - Pray for my tomorrow exam (I hate exams but I love algorithms design and analysis)
+
+# 30 Mar
+- Made my resume.
+- Looked out for internship opportunities (why are there next to no recsys opportunities for undergrads, I understand why!!! BUT WHY :cry:)
+- Had a long long meeting about FOSSHACK. It's already 2.30 AM
+    - Tested the guitar chords feature
+    - Debugging of AudioExport issues (bascially the tempo nd pitch was shifting a bit and it was sounding BAD)
+    - Realsed v1.0.1 :yay:

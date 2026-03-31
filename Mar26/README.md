@@ -131,3 +131,13 @@ Well, from this point onwards, I have tuta-foota record of what I did from whats
     - Tested the guitar chords feature
     - Debugging of AudioExport issues (bascially the tempo nd pitch was shifting a bit and it was sounding BAD)
     - Realsed v1.0.1 :yay:
+
+# 31 Mar
+- Have my Linear Algebra exam tomorrow. It is not difficult to understand, trivial stuff
+- Worked on reorganizing the entire [github_recsys](github.com/anshulbadhani/github_recsys) repository and made it modular
+    - Studied about python `dataclasses` and `field()`
+    - Developed a Config class which contains PathConfig, ModelConfig and DataConfig objects
+    - Refactored all the code into multiple folders
+    - Tomorrow, I will write the bash script ( I have exam on 2nd too :/ ) for basic embedding generation or a very simple cli tool in python itself, let's see
+    - and work on neuralBandit
+- Found a few interesting papers: [Scalable Neural Contextual Bandit for Recommender Systems | Proceedings of the 32nd ACM International Conference on Information and Knowledge Management](https://dl.acm.org/doi/10.1145/3583780.3615048), [1702.08734v1.pdf](https://arxiv.org/pdf/1702.08734), [Suggest, Complement, Inspire: Story of Two-Tower Recommendations at Allegro.com](https://dl.acm.org/doi/epdf/10.1145/3705328.3748135) (this one is not very technical but can be read for fun, gives a bird eye view at a very high level of abstraction)

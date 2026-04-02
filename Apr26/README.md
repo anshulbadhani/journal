@@ -1,7 +1,7 @@
 # Apr 26
+Finally, it is the new month, the last one was really productive ngl.
 
 ## 1 Apr
-Finally, it is the new month, the last one was really productive ngl.
 - Today was my Linear Algebra exam and it was easy
 - Tomorrow, I have Time Series Analysis and Forecasting and the lore goes soo deep. But, sadly, I gotta stick the course else I will be cooked
 - GitHub RecSys
@@ -12,3 +12,9 @@ Finally, it is the new month, the last one was really productive ngl.
     - Tomorrow, if I get some time. I will work on the more indexing and start with my bandit arch design
 - I also found out about Gaussian Splats and it was literally what I though of compressing 3D space using Legender Polynomials as basis for real world object as a bunch of numbers. I was veryyy delighted knowing that it is really possible and it exists. But, it is wayy different than I imagined it to be. But the core idea is same.
 - Pray for my Time Series Exam 🙏
+
+## 2 Apr
+- Exams finally over
+- Went through the Recommendation Systems using Python and JAX again
+- Wrote clearly the complete pipeline in a file on the repository
+- Finally completed the FAISSRetriever class (3 AM btw)

@@ -36,7 +36,7 @@
 ## Dec 2025
 ### Markovian–Bandit Scheduling Algorithm at Human Scale
 (cool lgana chahiye bus naam lol. It's very basic actually)
-- Challenged Rashi for an AI duel. She agreed but later backed off. But, I am continuing my crazy idea.
+- Challenged a friend for an AI duel. She agreed but later backed off. But, I am continuing my crazy idea.
 - It is a mega project atp.
 - The basic idea is, given a list of tasks the algorithm will schedule my entire day based on my past habits and if I skip some task or fail to complete it. Then it will re calibrate my day to minimize `my` regret
 - For this project I figured out multiple things
@@ -52,15 +52,35 @@
 
 I wish to provide more details on this project later!!
 
-## Jan 2025
+## Jan 2026
 ### Temperature Forecasting Using Multivariate Fuzzy Time Series Model
 - idts I have to tell myself more about it. I am definately rememberign this
 - basically my RAMSA research paper
 - **Check this out here:**[FTSPaper/Temperature-Prediction: This is a repository for our research paper, where we explore the ideas of Temperature Prediction using Fuzzy Time Series](https://github.com/FTSPaper/Temperature-Prediction)
 - **The Presentation Slides:**[FTSPaper/Slides: This repository contains the code for our slides](https://github.com/FTSPaper/Slides)
 
-## Feb 2025
+## Feb 2026
 ### DustGuard AI
 - Project made for Climate Change Hackathon Delhi 2026. which got selected for finals
 - Basically it is a proposal for a systematic data collection from construction sites and provide them measures based on the site specific data.
 - **Check this out here:** [anshulbadhani/Construction-Sites-Monitor-Prototype](https://github.com/anshulbadhani/Construction-Sites-Monitor-Prototype)
+
+## Mar 2026
+### TAAL
+- An android app (well works on every platform beside iOS, for now) which targets beginners who just want to create something and test their goofy ideas without diving deep into how to use this software or wth does this setting do.
+- I love how this turned out <3
+- Also read our `devlog.md`
+- **Check this out here:** [Tanishq172006/TAAL: Its a music app, made for mostly making the experience of the android and other platform users easy](https://github.com/Tanishq172006/TAAL/tree/main)
+
+### GitHub RecSys
+- Made to understand RecSys better for a personal project of mine *(see Dec 2025)*. I am developing this to get an idea of how to even develop a RecSys, before implementing my own vision for the application.
+- It is basically end-to-end ML pipeline which is designed to handle a large amount of users at the same time (lol my large amount is hardly 5 to 10 with host machine being my laptop).
+- The basic overview of the pipeline
+    - Logs User Data and stores it in a central database
+    - Retrieves a small portion of repositories using Approximate Search for similar "items"
+    - For this the data is separated into two towers, one is user tower which contains a numerical representation of each user and one item tower, which contains the numerical representaion of each item (here repository), we can have these with different patterns like query-item, query-user etc. depending upon our task
+    - Then after retrieving top k items for the user requesting a query. We give it to a rank after basic filtering
+    - Then the ranker ranks all the items wrt to the user history and preferences
+    - And at the end everything is shown to the user
+    - Then our ranker observes a new context and update it's believes and weights
+- **Check this out here:** [anshulbadhani/github_recsys: Tower-two and NeuralUCB hybrid to generate repository recomendations](https://github.com/anshulbadhani/github_recsys)

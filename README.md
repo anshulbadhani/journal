@@ -5,7 +5,7 @@ This is a repository I made to keep a track of whatever I learnt
 
 ## On going stuff
 - [ ] Personalized Recomendation System for a todo application
-- [x] [FOSSHACK](https://github.com/Tanishq172006/TAAL-)
+- [ ] GitHub Repository Recommendation System
 
 ## [Sept 2025](https://github.com/anshulbadhani/journal/tree/main/Sept25)
 Here's a summary of this month
@@ -45,6 +45,16 @@ Exams and chill season, hence no detailed records
 - Started to work on FOSSHACK26. More details ahead.
 
 ## [Mar26](Mar26/README.md)
-- FOSSHACK26
+- [FOSSHACK26](https://github.com/Tanishq172006/TAAL)
     - we are making a music production app for android users
-    - more details 
+    - Read the very very basics of Queuing Theory
+- Signed up for the European Rover Challenge team of my college
+    - Learnt about basic Geology and GIS software specifically for extra terrestrial bodies (JMars)
+    - Read a few papers on the same (USGS and NASA mainly)
+- Started to work on [anshulbadhani/github_recsys](https://github.com/anshulbadhani/github_recsys)
+- Mid Sem Exams
+- Finally Updated my resume after almost 8 months (damn! the progress is insane), now I have to start applying for internships
+
+## [Apr26](Apr26/README.md)
+- more info at the end of the month
+

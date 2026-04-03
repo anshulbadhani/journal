@@ -18,3 +18,14 @@ Finally, it is the new month, the last one was really productive ngl.
 - Went through the Recommendation Systems using Python and JAX again
 - Wrote clearly the complete pipeline in a file on the repository
 - Finally completed the FAISSRetriever class (3 AM btw)
+
+## 3 Apr
+- The day after exam feels... great. Made a lot of progress today.
+- GitHub RecSys
+    - Completed the Retriever class
+    - Implemented Bloom Filter to remove duplicates
+    - Added reward estimation using MLP
+    - And finally, implemented the ranker! One thing I realised is, that behind some scary and crazy symbols, lies very simple and novel ideas which has such deep meaning. Like nothing about it is extraordinary. But the implications are just beyond the human mind, I feel like. Read this beautiful paper: [Neural Contextual Bandits with UCB-based Exploration - 1911.04462v3.pdf](https://arxiv.org/pdf/1911.04462)
+- Had the ERC meeting today after so long
+- and furthur discussions about upcomming competetions (I'm excited).
+- Tomorrow, I will compile all the code into one symphony and hopefully, get the results I believe in. If I get time, i will complete the MVP by calculating the evaluation metrics.

@@ -29,3 +29,17 @@ Finally, it is the new month, the last one was really productive ngl.
 - Had the ERC meeting today after so long
 - and furthur discussions about upcomming competetions (I'm excited).
 - Tomorrow, I will compile all the code into one symphony and hopefully, get the results I believe in. If I get time, i will complete the MVP by calculating the evaluation metrics.
+
+## 4 Apr
+- Completed the project and now it actually recommends stuff.
+- But the issue is that the recommendation quality is not good. The precision and recall is very poor.
+- And I realized that debugging a machine learning model is **HELL!!**
+    - We cannot debug it in the traditional way
+    - Training everytime takes **hours!**
+    - On smaller training sets (to debug) I am not sure if the issue is due to smaller dataset of because of poor recommendation!!?
+    - What exactly leads to bad choices.
+    - Is bandit the issue, or the retriever? or is it the filter itself.
+- Currently, it is training and I am waiting for the results
+- Also, had the ERC Team meeting again to finalize our sensors and prepare a budget
+- I explored some ideas for upcoming competetions. Tomorrow, I will start working on them and update here.
+

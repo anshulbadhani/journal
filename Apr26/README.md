@@ -43,3 +43,13 @@ Finally, it is the new month, the last one was really productive ngl.
 - Also, had the ERC Team meeting again to finalize our sensors and prepare a budget
 - I explored some ideas for upcoming competetions. Tomorrow, I will start working on them and update here.
 
+## 5-7 Apr
+- Tonnes of European Rover Challenge stuff
+    - metting professors from physics and bio-tech department for sample tests related advice.
+    - have to submit the preliminary report tomorrow.
+- Written the offline evaluation script for the bandit github recys.
+    - Will upload it later
+    - did a lot of improvements (hardly one-two lines and getting insane metrics boosts)
+    - I might have to make it work on real offline data, collected by hand to test if it works well in practice or not
+- Worked a bit on my resume
+- Some hackathon stuff, will share more details later down the line.

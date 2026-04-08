@@ -1,5 +1,5 @@
 # Journal
-This is a repository I made to keep a track of whatever I learnt
+This is a repository I made to keep a track of whatever I learnt. Check out [Things I made](https://github.com/anshulbadhani/journal/tree/main/ThingsIMade.md)
 
 ---
 

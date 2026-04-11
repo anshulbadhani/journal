@@ -53,3 +53,17 @@ Finally, it is the new month, the last one was really productive ngl.
     - I might have to make it work on real offline data, collected by hand to test if it works well in practice or not
 - Worked a bit on my resume
 - Some hackathon stuff, will share more details later down the line.
+
+## 8-11 Apr
+- Took some rest after ERC Prelim Report submission. IT WAS PEAKKK HAPPINESS AND PURE CELEBRATION among the team lol.
+- Had Algorithms lab test on Friday
+- Implemented a few interpolation techniques in MATLAB (Newton frwd/bcwd, Gauss frwd/bcwrd, Strling, Bessel, Langrange etc.)
+- Tried to write some docuementation for `github recsys` (Probably push it before sleeping)
+- Back to Queuing Theory, it is soo fun. Starting with the basic M/M/1 system. I would absolutely lovee to read from `kleinrock` once I get it from library.
+- Worked on resume, tried to find revelant roles and sadly, there aren't many near me. So, I might have to apply for remote roles.
+- got selected for `Meta-PyTorch OpenEnv` Hackathon finale.
+- Working on Google's MLSys26 problem statement on task scheduling
+- Went back to QFin again, after such a long time. Implement a few alphas on worldquant brain. But they didn't get accepted. Now, I *have* to cook something crazy! 😤
+- Updated linkedin a little (added the ERC role and resume); I hope to update the [ThingsIMade.md](../ThingsIMade.md)
+- Also, planned system arch for my Algorithms lab project. Compute would be a veryyy bigg issue and most of the time will go in training rather than re-iterating. I might to avail the computing facilities at my university.
+- Also, we discussed about HPC, CUDA Programming, GenAI and RL courses as a viable alternative to the redundant Full Stack development (Web dev) course. We already did that last sem. But it is now finalized and the prof with whom we dicsussed these new curriculum was a bit disappointed (seemed like finally, someone (us) wanted to start some cool ahh course at our college). But it is what it is.

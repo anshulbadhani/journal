@@ -67,3 +67,8 @@ Finally, it is the new month, the last one was really productive ngl.
 - Updated linkedin a little (added the ERC role and resume); I hope to update the [ThingsIMade.md](../ThingsIMade.md)
 - Also, planned system arch for my Algorithms lab project. Compute would be a veryyy bigg issue and most of the time will go in training rather than re-iterating. I might to avail the computing facilities at my university.
 - Also, we discussed about HPC, CUDA Programming, GenAI and RL courses as a viable alternative to the redundant Full Stack development (Web dev) course. We already did that last sem. But it is now finalized and the prof with whom we dicsussed these new curriculum was a bit disappointed (seemed like finally, someone (us) wanted to start some cool ahh course at our college). But it is what it is.
+
+## 12 Apr
+- Applying continues, it is hard to find relevant companies.
+- Worked on WorldQuant Brain Alphas. Formulaed a few hypothesis and alphas.
+- Worked on the technical report for my GitHub RecSys project.

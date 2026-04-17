@@ -72,3 +72,6 @@ Finally, it is the new month, the last one was really productive ngl.
 - Applying continues, it is hard to find relevant companies.
 - Worked on WorldQuant Brain Alphas. Formulaed a few hypothesis and alphas.
 - Worked on the technical report for my GitHub RecSys project.
+
+## 17 Apr
+- After a small vacation. I started to work on DAA project. [ifndef-BROS/recsys-from-scratch: We are attempting to make a recommendation system in C++.](https://github.com/ifndef-BROS/recsys-from-scratch)

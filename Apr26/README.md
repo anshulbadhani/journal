@@ -75,3 +75,13 @@ Finally, it is the new month, the last one was really productive ngl.
 
 ## 17 Apr
 - After a small vacation. I started to work on DAA project. [ifndef-BROS/recsys-from-scratch: We are attempting to make a recommendation system in C++.](https://github.com/ifndef-BROS/recsys-from-scratch)
+
+## 18 Apr
+- Worked on [recsys from scratch](https://github.com/ifndef-BROS/recsys-from-scratch)
+- Learnt about curl
+- Learnt about how to choose a proper dataset (sparsity nd all)
+- What kind of recsys (sequential and history based) to use for what kind of task
+- Out of Memory (OOM) issues with WSL while loading datasets (still an open problem for me to figure out)
+- Chose and installed the amazon software review dataset
+- Wrote a bash script, so someone new can set this up quickly on their own machine
+- Watched Project Hail Marry and it reminded me of the Astro-Bio task for ERC. I wish we too had that spectrometer which Grace used in the movie :<

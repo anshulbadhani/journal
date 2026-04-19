@@ -85,3 +85,9 @@ Finally, it is the new month, the last one was really productive ngl.
 - Chose and installed the amazon software review dataset
 - Wrote a bash script, so someone new can set this up quickly on their own machine
 - Watched Project Hail Marry and it reminded me of the Astro-Bio task for ERC. I wish we too had that spectrometer which Grace used in the movie :<
+
+## 19 Apr
+- Filtered the dataset
+- Generated items embeddings
+- Writing a parser for `.csv` files in C++ for project continuation
+- All of the python part is done now heavy coding only 😈

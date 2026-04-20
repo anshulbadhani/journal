@@ -91,3 +91,8 @@ Finally, it is the new month, the last one was really productive ngl.
 - Generated items embeddings
 - Writing a parser for `.csv` files in C++ for project continuation
 - All of the python part is done now heavy coding only 😈
+
+## 20 Apr
+- Written a csv parser in C++ for our embeddings data
+- Designed and implemented a Bloom Filter in C++ and studied a few papers on Bloom filters. The details can found at `anshulbadhani/recsys-from-scratch/random_stuff.md`.
+

@@ -96,3 +96,7 @@ Finally, it is the new month, the last one was really productive ngl.
 - Written a csv parser in C++ for our embeddings data
 - Designed and implemented a Bloom Filter in C++ and studied a few papers on Bloom filters. The details can found at `anshulbadhani/recsys-from-scratch/random_stuff.md`.
 
+## 21 Apr
+- Fixed issues with data leakage.
+- Wrote a script to generate user emebeddings on the fly. It user's history (avg of items the user has interacted with in the past)
+- Implemented a basic Approximate Nearest Neighbour Search using KD Trees. had to learn a lot about them. It basically uses a Divide and Conqure Approach to find the nearest neighbour. But I haven't had a look at its code. Which I think I should, before claiming that I know this well.

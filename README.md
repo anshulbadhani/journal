@@ -56,5 +56,26 @@ Exams and chill season, hence no detailed records
 - Finally Updated my resume after almost 8 months (damn! the progress is insane), now I have to start applying for internships
 
 ## [Apr26](Apr26/README.md)
-- more info at the end of the month
-
+What a banger of a month this was. So, much stuff I did this month and it was amazing. Here is a brief summary of things I did
+- Applied to a lot of places (well not much of a banger thing ngl)
+- Completed [anshulbadhani/github_recsys](https://github.com/anshulbadhani/github_recsys) to a conclusive point at least (for now). 
+    - This project taught me some imporant lessons. I won't frame this as a success in traditional sense. But it helped me learn a lot.
+    - I learnt how an online algorithm performs just bad in offline evaluation stratergies and static datasets with no feedback from users.
+- Did a lot of ERC stuff. 
+    - Mostly, searched for vendors with Shreyash to source spectroscope from.
+    - Figured out a bit of Thin Layer Chromatography stuff
+    - Studied very very very basics of planetary geology and some geology in context of Mars. Like I have a "world map" of Mars in my brain now and a few geological facts about each place.
+- Meta PyTorch OpenEnv hackathon in collaboration with HuggingFace and SST, Blr.
+    - omg I cannot begin to start on this.
+    - We tried to solve Google's MLSys 2026 problem statement here. Which was basically, operation scheduling of compute graphs in context of Machine Learning compilers using Large Language Models
+    - What we did different was to evaluate and made the LLM learn on a GRPO based policy.
+    - As of now, reward systems need some work. I mean it works from an hackathon standpoint and is really good acc to me. But, I can see some improvements here.
+    - Repository: [AnishaRoy5555/compiler-scheduler-env](https://github.com/AnishaRoy5555/compiler-scheduler-env)
+- Now, **My Favourite Project of this month**. I legit worked idk how many hours accross 2-3 weeks. on this. Welcome.... [anshulbadhani/recsys-from-scratch](https://github.com/anshulbadhani/recsys-from-scratch/tree/main)
+    - This is a complete machine learning pipeline in C++
+    - It was specifically optimized to best run on my laptop with Intel Core Ultra 225H processor.
+    - In the process of making this project. I literally learn a lot about low level details of the C++ language and the Computer Architecture.
+    - Improved the latency of this system from 116 ms/user to an impressive number of 0.33 ms/user. And I think with more work, I could optimize it futher to 0.03 ms/user which is 10 times faster than current version and about 3000 times faster than the first working version (without any optimizations)
+    - Soon, I will be publically sharing a very detail technical report on this.
+    - I made this project for my Design and Analysis of Algorithms Lab course project. But it has some serious potential.
+- I hope to do more the next month too. But, okay... lets see what happens.

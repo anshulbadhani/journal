@@ -100,3 +100,25 @@ Finally, it is the new month, the last one was really productive ngl.
 - Fixed issues with data leakage.
 - Wrote a script to generate user emebeddings on the fly. It user's history (avg of items the user has interacted with in the past)
 - Implemented a basic Approximate Nearest Neighbour Search using KD Trees. had to learn a lot about them. It basically uses a Divide and Conqure Approach to find the nearest neighbour. But I haven't had a look at its code. Which I think I should, before claiming that I know this well.
+
+## 22-24 Apr
+- Did a lot of work on the recsys-from-scratch project.
+- Did a lot of "sarkari work" at college (it was tiring).
+
+## 24 Apr
+- Travel to Bangalore
+
+## 25 Apr
+- Meta PyTorch OpenEnv Hackathon Day 1
+
+## 26 Apr
+- Day 2 of hackathon
+
+## 27 Apr
+- Flight back
+
+## 28 Apr
+- A lot of college work, but I was too exhausted so I rested
+
+## 29-30 Apr
+- College PBL Submissions and Lab Tests preparation

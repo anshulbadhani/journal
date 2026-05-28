@@ -39,3 +39,20 @@
     - *Applied Functional Analysis* by Oden and Demkowicz. It seems like a good read is more relevant for Numerical PDE theory. So, when I prove the error bounds it would be pretty staright for me
     - *Nonlinear Functional Analysis Vol I* by Zeidler. This one is the book I have to study for equivalence proof (since the system I am going to work on is nonlinear) and I might find relevant proofs here.
     - And I will use the research papers metioned above as the starting point after the exams.
+
+## 24 May
+- "Functional Analysis, Calculus of Variations and Optimal Control" by Francis Clarke
+
+## 25-28 May
+- Conculded with European Rover Challenege video.
+- Chased an issue at FAISS (Doing that since exams). I realised that it requires a very specific hardware to replicate. Which sadly I do not have.
+- The issue was basically something related to AVX512 intrinsics not working.
+- Docs PR at tensorflow/agents
+- Worked on #10116 from llama.cpp. I could not replicate the bug. But found that AVX-VNNI will not properly work on some machines. For now, I have benched the issue. I might get back to it later.
+- Started to write a matrix multiplication library. So, that I could learn how to optimize performance critical systems. Will make a repository soon.
+    - Figured out how to benchmark properly (WSL is a constraint I am working with, so perf is out of the window) I am using google/benchmark for benchmarking.
+    - learnt about span and how awesome they are
+    - fought a lot with templates in headers. It was such a headache to work with. `.hpp`, `.tpp`, `.cpp` making these work with each other was something I was not thinking would be this unintuitive.
+    - built the benchmark from source as the apt version was in debug mode and may give slightly off results (in my case 2-3%)
+    - Learnt about arena allocators (again)
+- Got aware of cool contests like ICFP Programming contest, SSC which was basically we have to make our own Computing Cluster. I would LOVE LOVE to participate in something like that!!

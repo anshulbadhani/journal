@@ -56,3 +56,11 @@
     - built the benchmark from source as the apt version was in debug mode and may give slightly off results (in my case 2-3%)
     - Learnt about arena allocators (again)
 - Got aware of cool contests like ICFP Programming contest, SSC which was basically we have to make our own Computing Cluster. I would LOVE LOVE to participate in something like that!!
+
+## 29-31 May
+- ERC video work. Done with video editing and submission
+- Looked into linux internals
+    - got to know that maximum stack capacity is 8192 kB on linux for C++
+    - triggered stack overflow multiple times while testing the GEMM library I was writing
+    - looked into `/proc` it was a really fun experience
+    - force shutdow PID 1 using telinit and watched the kernel kill itself *sips tea*

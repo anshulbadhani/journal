@@ -79,3 +79,5 @@ What a banger of a month this was. So, much stuff I did this month and it was am
     - Soon, I will be publically sharing a very detail technical report on this.
     - I made this project for my Design and Analysis of Algorithms Lab course project. But it has some serious potential.
 - I hope to do more the next month too. But, okay... lets see what happens.
+
+## 

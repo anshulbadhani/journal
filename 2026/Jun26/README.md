@@ -14,3 +14,12 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - So, I opened the codebase after soo long and realised that I dont understand it well now. Cherry on top! There were no comments in that codebase.
 - I tried to refactor the codebase, started to document things, how one module is related to other
 - Had a look into Hidden Markov Model Theory, realised that it has many many limitations for this application. I would have to overcome those anyhow and it is going to be an insanely difficult task, while keeping all the constraints in my mind.
+
+## 5 Jun
+- It was a very sad day :(
+- My laptop got burnt
+- I was working on llama.cpp and planning to open an issue. I had almost fixed it and the only thing which was left to do was profiling of my fix, since it was a performace and build fix.
+- So, I flashed my usb stick with PopOS! Then I shutdown my laptop and it never woke up :((( 
+
+## 6 Jun
+- I installed termux on my phone. I cannot do heavy programming ofc. But I can do something at least. Writing this commit from my phone.

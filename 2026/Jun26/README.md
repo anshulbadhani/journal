@@ -23,3 +23,10 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 
 ## 6 Jun
 - I installed termux on my phone. I cannot do heavy programming ofc. But I can do something at least. Writing this commit from my phone.
+
+## 7 Jun
+- Planned a few things. Mostly on how I want to learn proper proving methods
+
+## 8 Jun
+- Solved puzzle by 0xPARC (if I remember the name right) which was basically given a secret tuple what is the most optimal way to find it using query vector(s) and we will get dot product everytime. (the answer is not n for arbirtary tuple on $\mathcal(R)$, if we are being clever and try to "cheat" the assumptions)
+- Now, I will start to learn formal proves.

@@ -30,3 +30,5 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 ## 8 Jun
 - Solved puzzle by 0xPARC (if I remember the name right) which was basically given a secret tuple what is the most optimal way to find it using query vector(s) and we will get dot product everytime. (the answer is not n for arbirtary tuple on $\mathcal(R)$, if we are being clever and try to "cheat" the assumptions)
 - Now, I will start to learn formal proves.
+- I started with the book Hamlock and after the `P(P(R²))` question. I started to imagine it... realised we can also go one abstraction above. Tried to explore this notion more and I stumbled upon modern set theory
+- The conclusion is... everything is a set :skull:

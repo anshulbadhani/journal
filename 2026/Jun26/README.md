@@ -32,3 +32,15 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - Now, I will start to learn formal proves.
 - I started with the book Hamlock and after the `P(P(R²))` question. I started to imagine it... realised we can also go one abstraction above. Tried to explore this notion more and I stumbled upon modern set theory
 - The conclusion is... everything is a set :skull:
+
+## 9 Jun
+- I started to apply again and mostly applied through out the day... and tbh applying from phone is a headache. Not every webpage is designed for phones. I apllied to two places
+- One is more of a research contribution for EAI language benchmark. I would be contributing for my lanugage Kumaoni. It just feels good in a way, not because of contribution and opportunity to become a co-author.
+- But who knows in very late future what would happen. It is that, my language will be preserved in the dataset. Which would be an open source dataset <3
+
+## 10 Jun
+- I was scrolling through linkedin and found a rather interesting post. SciPy-india and Rust india are going to organize a small offline meetup. I am thinking to give a talk there.
+- The topic would be something like "The GOAT abstraction". I will be diving into the ideas I discovered on night of 8th June.
+- It was basically that division algorithm `a = bq + r` can be abstracted into more ideas like PCA, SVD, Fourier Analysis, Linear Filters, Compression and even crazier ideas. They share the same structures i.e. approximation of a quantity. Division is literally approximating a by using b qs and the error in that approximation is r.
+- I just have to weave it into an entertaining narrative. Because it seems like a perfect idea for a talk with that audience. Scipy people would love the mathematics and rust people would love the beauty of abstraction.
+

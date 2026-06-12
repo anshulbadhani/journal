@@ -1,4 +1,4 @@
-# June 2026
+#June 2026
 The previous month was mostly exams. But now, I have summer vacations and I want it to be something fruitful for me. Since, I didn't land an internship. I will rather chill than panicking about stuff.
 
 ## 1-2 Jun
@@ -44,3 +44,6 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - It was basically that division algorithm `a = bq + r` can be abstracted into more ideas like PCA, SVD, Fourier Analysis, Linear Filters, Compression and even crazier ideas. They share the same structures i.e. approximation of a quantity. Division is literally approximating a by using b qs and the error in that approximation is r.
 - I just have to weave it into an entertaining narrative. Because it seems like a perfect idea for a talk with that audience. Scipy people would love the mathematics and rust people would love the beauty of abstraction.
 
+## 11 Jun
+- Got my laptop working finally!
+- Tried to setup latex tools offline on my machine. Idk why it still is a pain to do so

@@ -47,3 +47,34 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 ## 11 Jun
 - Got my laptop working finally!
 - Tried to setup latex tools offline on my machine. Idk why it still is a pain to do so
+
+## 12 Jun
+- Worked on scipy x rust delhi proposal.
+- Before submitting anything. I developed a narrative around the concept and how to introduce it to the audience so it is not boring to them.
+- Tried to test my intuition by writing a custom quantization algorithm and tested it on TinyLlama1.1B, but it failed and generated pure garbage.
+- It was not purely random, it had some meaning in the words it wrote (besides the special characters) but it was not at all related to what I asked.
+- But, on the brighter side the size reduced to 2.05 GB to about 1.46 GB. So, I would say, it did a few things and the SMA was around 45dB... idk it should have worked but idk, would have to look more into it, or prepare some other application of what the abstraction I want to propose.
+
+## 13 Jun
+- Read the Logic chapter from Book of proofs by Richard Hammack.
+- One read section 2.1 tbh... because I started to explore the idea of Axiom of Anti Foundation aka Anti Foundation Axiom, which allows sets like `A = {A}` which are "non-standard" non-ZFC sets, allowing infinite recursive structures.
+- I looked into why are they useful and where would they be useful. The answers were not convincing enough for me. But, it was also not nothing. I guess my understanding is limited by how much I know and can comprehend. I understood we can use it to represent recursive structures like graphs. But that can be done with references and arrays easily. So, I dont see a point why would they be useful.
+- One interesting application I found was to prove that two objects are same from inside out, say I have two pieces of code, let's say pattern printing to print this pattern
+
+```
+*
+**
+***
+****
+*****
+```
+
+- This pattern can be printed using prints, loops and recursion. Now, these recursive sets can be used by softwares like compilers to prove that two pieces of codes have same output or at least same internal behaviour and output. Hence it can eliminate it.
+- Or it can be mathematically proven that a piece of code can never be reached, idk if I have shared this idea here before, but we can theoritically bypass certain compilation errors if we use -O3 and compiler eliminated the "unreachable" code. This can be used in lab tests lol to show that the code compiles but gives no output for "right looking" code. For more info chec out my logs for GEMM library I was writing
+- To prove such eliminations wont affect our output. These could be useful, but I am not convinced.
+- One rather interesting thing which I am very convinced with is, proving an infinitely running program will never crash, say a web server. 
+- Or we can prove things like, a bandit and HMM based task scheduling algorithm will "converge" and give "sane" outputs.
+> *Note: idk how to word it formally, I lack that lingo, but if I use my application for say, more than 5 years, the storage used would not explode on an android device, or due to same algo running for so long. it does not generate noisy recommendations and optimizations for the user using the program* For more info check out my logs about bandit task scheduler.
+- Ahh! one more thing I found it useful was for language models, and modelling language sementics (that is where i got idea of Dead code elimination or compilers in the first place).
+- To test it, I tried to vibe code sementic engine for a toy language inspired from game called [Baba Is You](https://en.wikipedia.org/wiki/Baba_Is_You) and tried to write a program to identify redundant or paradoxical rules and tried to handle those cases or eliminate such rules for a scale which might not be needed, so I cannot model it using simple if elses. But, I failed miserably.
+- So, for now, I see potential in the idea of `not-well-founded sets` but I am not convinced by them.

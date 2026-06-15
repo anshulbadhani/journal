@@ -1,4 +1,4 @@
-#June 2026
+# June 2026
 The previous month was mostly exams. But now, I have summer vacations and I want it to be something fruitful for me. Since, I didn't land an internship. I will rather chill than panicking about stuff.
 
 ## 1-2 Jun
@@ -78,3 +78,12 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - Ahh! one more thing I found it useful was for language models, and modelling language sementics (that is where i got idea of Dead code elimination or compilers in the first place).
 - To test it, I tried to vibe code sementic engine for a toy language inspired from game called [Baba Is You](https://en.wikipedia.org/wiki/Baba_Is_You) and tried to write a program to identify redundant or paradoxical rules and tried to handle those cases or eliminate such rules for a scale which might not be needed, so I cannot model it using simple if elses. But, I failed miserably.
 - So, for now, I see potential in the idea of `not-well-founded sets` but I am not convinced by them.
+
+## 14 Jun
+- I have figured something out, I think if I take smaller steps then I will do much better than I am already doing. So, I suppose it is okay to sacrifice some development speed for stronger foundations and higher quality of work
+- With that note, I started to work on the pre-print. Man! finding a good latex template is hard. Tbh I dont want a research paper like template. I want something like a 1960s technical report from NASA. It looks cool that way, for a technical report. For now, I am sticking to ICML Template. It is good besides the centering it forces everywhere. Like, ugh I just don't like it. It works for now though.
+- I opened a few issues on github for the same repo.
+
+## 15 Jun
+- Laptop repair guy came. There were a few more concerning issues. It took sometime but I would say that it is fine.
+- I continuted the work on pre-print. I have written 13 pages in last 2 days, well a lot of it was already written for DAA report. I just used a more formal language this time.

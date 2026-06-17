@@ -87,3 +87,17 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 ## 15 Jun
 - Laptop repair guy came. There were a few more concerning issues. It took sometime but I would say that it is fine.
 - I continuted the work on pre-print. I have written 13 pages in last 2 days, well a lot of it was already written for DAA report. I just used a more formal language this time.
+
+## 16 Jun
+- I worked on my recsys report mostly.
+- I also waste a lot of my day in stress testing my laptop to find any issues again. I found the thermal throttling to be crazy and not effective at what it is for.
+- and I just realized that I am writing wrong dates lol. Today is 17 and this entry should be of 15. But since the dates are now fucked so, I will keep it this way to avoid too much work and confusion
+- Researched a bit about linux distros after installing like a million gigabytes of updates on my live usb.
+
+## 17 Jun
+- Almost done with the report, just a few todos
+- No longer unemployed, working under Dr. Sushil Kumar from NITKKR.
+<!-- - Anisha is smart, Anisha is cool, Anisha is Anisha, Anisha thinks a lot, Anisha is a simple insane, Anisha is chota sa baccha, All I can think about is Anisha, Anisha is something to be obssesed with, Anisha owns an island called Anishia, Anisha is a good friend, Anisha is someone I can't forgot, Anisha is deadly, Anisha is pretty, Anisha talks a lot, Anisha is funny (rarely), Anisha is fun, Anisha is someone I always to hangout, Anisha is a project... Project Anisha (iykyk), Anisha told to me to do this, Anisha is seedhi saadhi insaan, Anisha k baare mai jitna bole utna kam hai, Anisha is cute, Anisha is pyari, Anisha is basic, Anisha is mid, Anisha has good hair (never noticed idk), Anisha is old, Anisha takes a lot of stress (mat liya kro yawr), this is co-authored by Anisha, Anisha why, Anisha hello, Anisha sleep a lot but not on time, Anisha is so done, Anisha k baare mai jitna bolo utna kam hai, Anisha is like me, Anisha is crazy, Anisha is 152cm tall, Anisha is 49kg, Anisha is chatori, Wish her happy birthday on 1 Jun, Anisha is intelligent, Anisha is inspiring, Anisha is interesting, Anisha is nalli (as of 17th Jun), Anisha is someone I can ruin my sleep for, I love my sleep but I love Anisha more (I'm held at gun point), Anisha is the meanest person alive (disagree), Anisha has a good humor, Anisha goes by vibes, Anisha gives good vibes to me, Anisha is nice, Anisha gets angry quickly, Anisha is a good person. -->
+- I studying about Fuzzy C means and PSO and read a paper on Tumor detection
+- Booted AntiX linux for the first time, and I fucked my laptop's clock lol
+- Worked on report and numerical stability proofs for Welford's Algorithm

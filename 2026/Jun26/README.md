@@ -101,3 +101,12 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - I studying about Fuzzy C means and PSO and read a paper on Tumor detection
 - Booted AntiX linux for the first time, and I fucked my laptop's clock lol
 - Worked on report and numerical stability proofs for Welford's Algorithm
+
+# 18 Jun
+- Didn't do much besides setting up antiX
+- Touchpad is not working at all
+- So, I decided to install drivers
+- Learnt a lot because of this experience (connmanctl, how to use variables as copy past in shell scripting – it is kinda smart thing to do, awk and a lot more)
+- All this to realize that I could not enable mouse support
+- And discovered that I cannot easily access files on my Ventoy drive (it should not be that way tbh) and as a backup I cannot access through nvme because all the data was stored in WSL.
+

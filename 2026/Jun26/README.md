@@ -110,3 +110,9 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - All this to realize that I could not enable mouse support
 - And discovered that I cannot easily access files on my Ventoy drive (it should not be that way tbh) and as a backup I cannot access through nvme because all the data was stored in WSL.
 
+# 19 Jun
+- Studied floating point arthematic and damn! why the hell is this not taught to us at all! It is legit the most important thing that everyone who learns to program should know (okay not everyone but it is litearlly very important in most of the domains)
+- I just got to know that `sum += x[i]` accumulates errors like crazy and applications where precision is crucial like some aircraft, spacecraft, satellite, scientific simulation, trading systems etc. This is literally a death sentence :skull:
+- I had a look into proves involving numerical stability for my report. I have written something using AI but for now I cannot verify if the proof is correct or not. So, I would learn about floating point arthematic for a few days and then I will verify the proof and move forward.
+- I have to verify all the numbers by proper profiling (testing on bare metal and removing WSL overhead).
+- Update: the dates are not wrong, idk wtf is happening lol

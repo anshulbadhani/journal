@@ -116,3 +116,11 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - I had a look into proves involving numerical stability for my report. I have written something using AI but for now I cannot verify if the proof is correct or not. So, I would learn about floating point arthematic for a few days and then I will verify the proof and move forward.
 - I have to verify all the numbers by proper profiling (testing on bare metal and removing WSL overhead).
 - Update: the dates are not wrong, idk wtf is happening lol
+
+## 20 Jun
+- Took all the day to write proofs of numerical stability, sub suboptimality of Adaptive MMR (met my friend matroid again) and verified each and every number in my report.
+- Took the entire day to fix all the inconsistencies.
+- Fixed all the calculations and verified all the clock cycle numbers properly using `perf`.
+- only one thing is left that the ratio of percentages and clock cycles in the latency pie chart are not matching and I am too lazy to fix it atp. Let's see if I do it tomorrow or not.
+- Besides that I have to read my paper as well on FCM PSO CNN for brain tumor detection. Tomorrow I will get more than enough time for it.
+- and and and I almost wiped off my ssd while turning on persist all on antiX. Cancelled at the very last second.

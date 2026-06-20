@@ -124,3 +124,10 @@ The previous month was mostly exams. But now, I have summer vacations and I want
 - only one thing is left that the ratio of percentages and clock cycles in the latency pie chart are not matching and I am too lazy to fix it atp. Let's see if I do it tomorrow or not.
 - Besides that I have to read my paper as well on FCM PSO CNN for brain tumor detection. Tomorrow I will get more than enough time for it.
 - and and and I almost wiped off my ssd while turning on persist all on antiX. Cancelled at the very last second.
+
+## Wild card
+Well I have some todos left:
+- [ ] Read FCM PSO CNN paper
+- [ ] Open issue in llama.cpp
+- [ ] Read the "What every computer scientist should know about floating point arthemetic" paper
+- [ ] Set up the platonic universe pipeline

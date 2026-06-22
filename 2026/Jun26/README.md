@@ -131,3 +131,11 @@ Well I have some todos left:
 - [ ] Open issue in llama.cpp
 - [ ] Read the "What every computer scientist should know about floating point arthemetic" paper
 - [ ] Set up the platonic universe pipeline
+- [ ] Also learn how to prove stuff
+
+## 21 Jun
+- Completed the recsys from scratch report and uploaded it on ssrn
+
+## 22 Jun
+- Formatted for arxiv submission. Now, I just have to figure out the endorsement. Lets see what happens.
+- Looked in KNN and FCM for PSO CNN paper

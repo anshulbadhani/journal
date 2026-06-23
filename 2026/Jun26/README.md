@@ -139,3 +139,18 @@ Well I have some todos left:
 ## 22 Jun
 - Formatted for arxiv submission. Now, I just have to figure out the endorsement. Lets see what happens.
 - Looked in KNN and FCM for PSO CNN paper
+
+# 23 Jun
+- Laptop went to service center might take a few days... I think it is better to get a proper hardware inspection when the warranty covers it rn
+- Well this gave me a lot of time to think. I didnt do much today besides this thought.
+- I think what I lack is not more technical knowledge... it is the technical maturity
+- I think having a mentor for me is necessary... and by mentor I just mean someone experienced in a particular field.
+- Well currently my interests are things which have ownership, stakes and depth. I think I did a bad job explaining it.
+- Basically, I want do something which is not something aleady done, something novel or something deep or something where stakes are high
+- Currently those things are qfin, ai research involving a lot of math. like converting bandit problem into linear program to define tighter bounds or mathematically proving reliability of CNNs for physics simulations with reasonable error bounds. Or it could be making rockets, spaceships, satellites... cool stuff like that involving huge stakes or trading bots where every microsecond counts.
+- and mentor if I elaborate more I think of it like an older friend. To whom I can just talk about stuff
+- someone who can tell me things like... sum += x(i) is not something to use in a critical system as it accumulates error in O(n) 
+- if I tell them Im optimising this algo and they respond with... have you even checked if this part is bottle neck or not? Are your assumptions even right?
+- was the cache warm? did you pin the thread? how much is the variance... p1, p50 and p99?
+- or things like... yes this algo is working but is it feasible to run this for 2 years straight? for a user? what would be the infra maintaince required? what part is online and what is offline... will this explode?
+- I mean yeah not all these at once... but at least someone who can point these things out to me. I lack these small small nuances.

@@ -154,3 +154,13 @@ Well I have some todos left:
 - was the cache warm? did you pin the thread? how much is the variance... p1, p50 and p99?
 - or things like... yes this algo is working but is it feasible to run this for 2 years straight? for a user? what would be the infra maintaince required? what part is online and what is offline... will this explode?
 - I mean yeah not all these at once... but at least someone who can point these things out to me. I lack these small small nuances.
+
+## 24 Jun
+- Today I read "What every computer scientist should know about floating point numbers" by goldberg... one of the classics
+- I think now I understand floats a lot lot better but I still dont know a lot of stuff and am confused in a lot of things.
+- For now, I focused on understanding base, precision and stuff like that. Did a lot of problems to grasp it super well.
+- Fought a lot with a concept of machine epsilon. But now it clicked and it is super simple. Wherr I struggled was the proof of backwards stability. I just could not understand the difference between del and e mach... abs(del) < machine epsilon
+- Played a lot with ideas of condition number, stability, ill conditioning, well conditioning and singularities
+- met an old friend jacobian matrix for calulating condition number for multivalued functions mapping R^n to R^n. Alsp met spectral norm for R^n to R^1 systems.
+- It was just super fun and I am so excited to apply all this
+- and the best part? now with condition number and backwards stabolity I could exactly know a bad computation is result of bad algorithm or is fundamental to the problem itself and if we need better algos or more precision.

@@ -6,7 +6,7 @@ This is a repository I made to keep a track of whatever I learnt. Check out [Thi
 ## On going stuff
 - [ ] Personalized Recomendation System for a todo application
 - [ ] Recsys from scratch
-    - [ ] A proper report and a pre-print
+    - [x] A proper report and a pre-print
     - [ ] Testing on more data and multiple datasets
     - [ ] Reducing latency even further
     - [ ] Try to deploy it

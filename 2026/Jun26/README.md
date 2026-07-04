@@ -164,3 +164,7 @@ Well I have some todos left:
 - met an old friend jacobian matrix for calulating condition number for multivalued functions mapping R^n to R^n. Alsp met spectral norm for R^n to R^1 systems.
 - It was just super fun and I am so excited to apply all this
 - and the best part? now with condition number and backwards stabolity I could exactly know a bad computation is result of bad algorithm or is fundamental to the problem itself and if we need better algos or more precision.
+
+# 25 Jun - 4 Jul
+- For first two days I learnt about floating point numbers and more about numerical analysis, and wrote a few pages on a physical notebook about floats
+- Went for a good vacation, had so many life lessons but they need not to be here.

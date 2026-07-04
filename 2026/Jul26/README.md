@@ -3,3 +3,5 @@ Most of my last month my laptop was not with me. But still the progress I made w
 
 ## 4 Jul
 - Finally got my laptop
+- I formulated a conjecture for my PDE-CNN idea. It is almost good but I need to define how can I measure size or efficiency in a more meaningful way. For now I can use number of parameters but it does not include architectural details and obv number of params in CNN will be less than Dense MLP because of its arch. So, this is the only thing left to make a good conjecture.
+- For now, idts I will make it public – all the definitions and the conjecture itself I will develop them first. And the best part is the conjecture itself is a single line and very simple. But the definitions are one single page on an A4 notebook. One can easily rebuild them from my jounral entries.

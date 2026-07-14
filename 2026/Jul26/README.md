@@ -119,3 +119,8 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - Implemented the PSO-CNN paper. We were three people so the work load was distributed properly. But I have realised that implementing a paper is not as difficult as it seems to be. Like it is easy to check where are we wrong
 - I was thinking a few days back that I should be able to implement anything without AI assisstance. Tbh it depends on the project. But for most of the projects its okay to heavily lean into AI assistance. But the hard part I think is the verification of code. 
 - If I am building upon previously done work then I must have to make sure that I can reproduce the results properly. If not the process becomes a bit complex but after reproducing things actually start.
+
+## 14 Jul
+- Worked on [multimodal context retrieval](https://github.com/anshulbadhani/multimodal-context-retrieval)
+- Learnt a lot today, about CLIP arch, JEPA, how to write query search on embeddings. Till now, my two towers were items and user now they are query and items. And I think it is much more simpler than recommending to users.
+- Designed a system keeping time constraints in mind and keeping things super super simple.

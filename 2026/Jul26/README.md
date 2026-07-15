@@ -124,3 +124,22 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - Worked on [multimodal context retrieval](https://github.com/anshulbadhani/multimodal-context-retrieval)
 - Learnt a lot today, about CLIP arch, JEPA, how to write query search on embeddings. Till now, my two towers were items and user now they are query and items. And I think it is much more simpler than recommending to users.
 - Designed a system keeping time constraints in mind and keeping things super super simple.
+
+## 15 Jul
+- Started to code the multimodal context retrieval.
+- The time (bomb) table dropped and most of my day went into parsing that weird document. But tbh it was fun. Not most of my day but a good chunk. I did not automated most of it. But I still did things manually but used AI in a way which helped me achieve the same level of understanding and confidence which I would have if I gave it 5 hours of my life without AI. It hardly took me 1.5 hours.
+- And why it took me even 1.5 hours? 
+    - because of how shit the time table is.
+    - There are a million of clashes in it.
+    - It is time table of all the batches and branches combined into one giant excel.
+    - Same course name with different course codes
+    - The only good thing is that given a good amount of time, writing a parser is possible because it is kinda consistent.
+    - The prof abbreviations are not given in excel. Have to find them from somewhere else.
+    - Classroom codes can be confusing, G1 batch vs G1 room. and many things like that..
+    - And when course names are same I have to match the number of credits of sem registration and time table.
+    - Verify the number of hours in a week in order to know if I left some course or not
+- But Claude did most of the stuff
+- I handled some minor (not actually) inconsistencies and specially electives, better prompts and more context could have save me like a major chunk of the time.
+- And then after manual cleaning and reorganizing in a format I like, I generated an image (it did it using matplotlib, I would have used canva tbh) and canva would have taken me a few more hours.
+- But the time table this year is fine. Only one clash for our batch. Rest is fine. Had to handle that in the image as well.
+- All this made me realise one thing. Making claude resource efficient is a skill too which someone can learn over time and with experience. I also feel like it is easier to be a toxic boss with AI models because of how much resources (tokens) they waste sometimes on something I havent even asked it to do. But yeah it is wrong on my behalf to be angry on an AI or my "staff" lol... because it is my reposibility to communicate the project scope clearly and it is not about AI in general. It gives an insight towards on how to manage human resource as someone in senior position and I think it is expected from juniors in 2026 to have these qualities as most of the "junior" things AI can do it by itself.

@@ -143,3 +143,19 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - And then after manual cleaning and reorganizing in a format I like, I generated an image (it did it using matplotlib, I would have used canva tbh) and canva would have taken me a few more hours.
 - But the time table this year is fine. Only one clash for our batch. Rest is fine. Had to handle that in the image as well.
 - All this made me realise one thing. Making claude resource efficient is a skill too which someone can learn over time and with experience. I also feel like it is easier to be a toxic boss with AI models because of how much resources (tokens) they waste sometimes on something I havent even asked it to do. But yeah it is wrong on my behalf to be angry on an AI or my "staff" lol... because it is my reposibility to communicate the project scope clearly and it is not about AI in general. It gives an insight towards on how to manage human resource as someone in senior position and I think it is expected from juniors in 2026 to have these qualities as most of the "junior" things AI can do it by itself.
+
+## 16 Jul
+- Worked on the multimodal fashion retrieval project
+
+## 17 Jul
+- Went to college after so long, and almost all my day went into preparation of the induction
+- But I somehow completed the  multimodal fashion retrieval project with techical writeup by 18 Jul 4 AM.
+
+## 18 Jul
+- Today was Pydelhi BOF – AI for security event. 
+- Got to learn a lootttttt
+- Met awesome people
+- So, it was more of a chit chat session on a oval table. It started with how to keep the agentic code secure, how agents can still see files which they are meant to see if they want to and how to prevent this like that. So, that our IP, PI (personal info), critical code and other things dont get compromised or leaked and there were many more things as well.
+- Then the discussion got a bit lighter and less technical. There was a new presective from which all AI stuff going these days with tackle and it used religion and politics as a metaphor for AI. It was genuinely insightful in a way to look things differently.
+- Then there was discussion about cloud infra security what are our responsibilities as developers while writing and shipping code and it was important.
+- I think I am inspired after that to make my new projects in a more security friendly ways or make something with guard rails. It would be a truly interesting project to tackle.

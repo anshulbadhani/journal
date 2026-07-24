@@ -159,3 +159,29 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - Then the discussion got a bit lighter and less technical. There was a new presective from which all AI stuff going these days with tackle and it used religion and politics as a metaphor for AI. It was genuinely insightful in a way to look things differently.
 - Then there was discussion about cloud infra security what are our responsibilities as developers while writing and shipping code and it was important.
 - I think I am inspired after that to make my new projects in a more security friendly ways or make something with guard rails. It would be a truly interesting project to tackle.
+
+## 19 Jul
+- Reviewed the FTS paper's methodolgy section and provided feedback from my side.
+- Prepared for Sansad March protest.
+
+## 20 Jul
+- Went to the protest. The scenes I saw there were disappointing and heart breaking. Just saw the police brutality and ngl that was too excessive, even by Indian Standards.
+- They were using expired tear gas
+
+## 21-24 Jul
+- The protests are still going on and they have just grown more and more. This month, I decided to share more of my opinions here in this journal. Currently, I have a lot of new opinions. It would be too much to list them all here. But I think all of them boils down to this conclusion.
+- I have matured a lot because of this protest. The things I saw there, made me realise things are not as straight forwards as it seems to be. I have realised the real power of democracy. I have realised that most of the world is not facing the probelms, we as Indians are facing.
+- I have closely followed all the parliamentary sessions in the last few days. Both lok and rajya sabha. I have came to realise that, first I dont know a lot of things about how this country is ran and second. The real probelm is far worse than what anyone in this country is talking about. We all say traditional broadcast media is not free, there is a lot of corruption in all sorts of institutions and it is very normalized, the money allocated to schemes and project is not spend properly and what not. But, I think the real issue is who are the people we are selecting to represent ourselves? and more importantly who are the people we haven't elected directly? and why dont we hear from them?
+- I have almost forgot that India has a President, that India has a Lok Pal, that India has a governer, that Indian democracy gives some amount of responsibilites and powers to local governements as well. Who runs NOIDA? who runs DDA? who runs the municipal corporations of our cities? I have absoulety no clue! And I find this concerning? 
+- I know this is a tech journal. The main focus of this journal is tech and I usually avoid any other kinds of opinions or personal accounts (that I still do). But I think it is crucial for us to know about all this in order to be a responsible citizen of whatever country we belong to. You, the reader – maybe from America, Europe, Africa, Australia, Asia... anywhere but these things are important for us to know.
+- Besides this, I have also realised we are not aware of our rights, we are not aware of our resposibilities, we are not aware of what is happening around us, we are not aware of our history – like one thing I wonder about is, how Gandhi ji lead such a big moment without internet or radio at that time? Only using print media? HOW?
+- We study the cold start probelm in RecSys and I still believe for my level of experience it is a hard problem for me to tackle. But imagine cold starting a country? We got our independence in 1947, the Consitution was written in November of 1949 if I am not wrong and came into the effect in Jan of 1950. Almost 2 and half years? How was country managed in that time? How was it ensured that the consitution which is written has enough representation of this vast nation, and I am not even talking of how it was made to be bullet proof that it still stands till this day.
+- I will for sure read a few biographies if I get some time in the upcoming months. When I get free from all the million things I have currently on going. 😭😭
+
+- And about my paper, there is some development for that. We did a few things
+- About the NITKKR paper, I have requested the dataset and before marking our research complete I'd like to personally run it on my machine on real data and verify all the numbers, for now the conclusion is that we are working on the part whose behaviour seems to be invariant despite the algorithm we have used. It is an interesting yet scary result (because it could be a trap task as well by our surpervisor, which would be hillarious) lol.
+
+- And I am thinking to make an image search engine but for this protest thing to identify all the people who did inhuman things. It would be a fun project.
+- Or I think I can make some sort of protocol like SMS but develop internet level infra around it. This idea comes from a place of not knowing deeply about computer networks and the internet. This can be an intersting project for situtaions like this. Or to make a small intranet of local devicies in a wireless manner without using bluetooth (imo it is kinda unreliable for situations like this, or I might have to find a way to develop my idea around this unreliability)
+- Just had some discussion about it with a few of my college friends about this idea. Till now it is sounding promising. But, tbh none of us have clue about it at a depth which is needed to be sure if this will work or not. But till now the discussion is very promising and in a direction of what is some existing tech around this and why we cannot use that.
+- I think discussions without AI is gem! No one knows anything completely but everyone has their own points and perspective whereas a discussion with AI is very homogeneous.

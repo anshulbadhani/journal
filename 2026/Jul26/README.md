@@ -185,3 +185,11 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - Or I think I can make some sort of protocol like SMS but develop internet level infra around it. This idea comes from a place of not knowing deeply about computer networks and the internet. This can be an intersting project for situtaions like this. Or to make a small intranet of local devicies in a wireless manner without using bluetooth (imo it is kinda unreliable for situations like this, or I might have to find a way to develop my idea around this unreliability)
 - Just had some discussion about it with a few of my college friends about this idea. Till now it is sounding promising. But, tbh none of us have clue about it at a depth which is needed to be sure if this will work or not. But till now the discussion is very promising and in a direction of what is some existing tech around this and why we cannot use that.
 - I think discussions without AI is gem! No one knows anything completely but everyone has their own points and perspective whereas a discussion with AI is very homogeneous.
+
+## 25 Jul
+- Minister resigned
+
+## 26 Jul
+- Started a new project, decided to make a highly automated newspaper pipeline and make my own small media house. Using knowlege of recsys to pool a set of diverse and relevant news and then manually review the top recommendations and pool a few interesting stories out of it.
+- Then using the tooling I will develop around making a newspaper with proper formatting from stories I will generate a newspaper.
+- Planning to keep it a bi monthly or monthly newspaper. If bi monthly then it will be alternating major and minor newspapers for that month.

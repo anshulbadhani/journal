@@ -193,3 +193,11 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - Started a new project, decided to make a highly automated newspaper pipeline and make my own small media house. Using knowlege of recsys to pool a set of diverse and relevant news and then manually review the top recommendations and pool a few interesting stories out of it.
 - Then using the tooling I will develop around making a newspaper with proper formatting from stories I will generate a newspaper.
 - Planning to keep it a bi monthly or monthly newspaper. If bi monthly then it will be alternating major and minor newspapers for that month.
+
+## 27 Jul
+- First day of college
+
+## 28 Jul
+- First proper (full packed day) of college
+- Took OSDC CT interviews
+- Had a look at the books in LRC, specifically Real and Functional Analysis books <3. I think just looking at the books gives you a very good idea about some feild and what it is about. Like, now I know that what a standard Real Analysis course has and how centeral the ideas of operators and spaces are to functional analysis (ik it before as well though)

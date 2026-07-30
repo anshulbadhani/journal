@@ -201,3 +201,6 @@ Most of my last month my laptop was not with me. But still the progress I made w
 - First proper (full packed day) of college
 - Took OSDC CT interviews
 - Had a look at the books in LRC, specifically Real and Functional Analysis books <3. I think just looking at the books gives you a very good idea about some feild and what it is about. Like, now I know that what a standard Real Analysis course has and how centeral the ideas of operators and spaces are to functional analysis (ik it before as well though)
+
+## 29 Jul
+- OSDC Interviews, it was fun

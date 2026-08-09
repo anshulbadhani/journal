@@ -1,6 +1,6 @@
 # Aug26 
 
-## 30 Jul - 8 Aug
+## 30 Jul - 6 Aug
 - Researched a little on my newspaper. (Yes I want to make my own newspaper)
     - Wrote a big ass document with everything I think should be in a newspaper and decided the core principles of my paper.
     - I just want to make the old papers, more modern... not like the shitty news articles.
@@ -20,3 +20,16 @@
     - Things are simple rn but I am not sure how will it be ahead. It is a difficult course indeed
     - I already know I will struggle with exams even if I love it a lot. (Like it has always been, but who cares)
     - Other courses like OS and Constituition are also fun. Courses this sem are fun but I am very disappointed by my time table. There is no time to actually do fun stuff. Some time I get goes into getting recharged 🙄
+
+## 7 Aug
+- Worked on scipy india x rust delhi ppt
+
+## 8 Aug
+- UIUCTF Day 1
+- Solved some stuff
+- My proposal got rejected for scipy india x rust delhi
+
+## 9 Aug
+- UIUCTF Day 2
+- All in on phantom one and that remote vm one (privlage escalation one)
+- I loved the idea of phantomoon one. I loved learning about RV32 asm.
